@@ -46,6 +46,14 @@ HTML, CSS, Javascript, Google Fonts
 
 
 
+## What I Learnt
+
+I learnt about the parallax effect. Parallax scrolling is a web design technique in which the website background moves at a slower pace than the foreground.
+
+I developed the understanding of EventListners and there vast number of possibilities to add functioning into the website.
+ 
+
+
 ## 🚀 About Me
 Im a Fullstack Developer, part-time teacher and a forever student. I learn new things in tech everyday along with other subjects like mathematics, competitive programing etc.
 
