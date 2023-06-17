@@ -40,10 +40,18 @@ Then type "code ." to open it in VS Code (or any other IDE).
 Then Go live with your IDE.
 
 BOOM!! There you have it.
+
+#### Pro Tip ✨✨
+
+It works best in fullscreen. Press F11 on your keyboard to enter the full screen in your browser.
+
+```bash
+  F11
+```
+
 ## Tech Stack
 
 HTML, CSS, Javascript, Google Fonts
-
 
 
 ## What I Learnt
